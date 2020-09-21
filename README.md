@@ -1,6 +1,6 @@
 # Sets
 
-In this project, I explore the use of Sets ordered and unordered to act as storage containers with iterators and lists.
+In this project, I explore the use of Sets ordered and unordered to act as storage containers with iterators and array lists. I also play around with generic type items to act as a placeholder for use with the Java Node class.
 
 The files included are the implementations of the whole project.
 
